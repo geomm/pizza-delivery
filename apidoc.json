@@ -1,5 +1,0 @@
-{
-  "name": "pizza-delivery",
-  "version": "1.0.0",
-  "description": "This is a pizza delivery service API. It uses Stripe to create charges and handle payments and Mailgun to send receipt Email to the customer user"
-}
